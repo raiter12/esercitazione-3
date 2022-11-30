@@ -1,0 +1,58 @@
+
+
+.featured{
+    color: rgb(181, 48, 48);
+}
+#sally{
+    color: rgb(173, 172, 172);
+}
+
+header{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    
+}
+
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+   
+}
+
+div{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    width: 100%;
+}
+h1{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    width: 100%;
+}
+p{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    width: 100%;
+}
+
+#fine{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    width: 100%;
+}
